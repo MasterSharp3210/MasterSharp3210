@@ -163,31 +163,6 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 ---
 
-# 🎮 Minecraft
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Hypixel-Network-orange?style=for-the-badge"/>
-
-</p>
-
-## 🛏 BedWars
-
-<p align="center">
-
-⭐ **300**
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/MVP+-00E5FF?style=for-the-badge"/>
-
-**25fs**
-
-<img src="https://img.shields.io/badge/%5BALPHA%5D-00E5FF?style=for-the-badge"/>
-
-</p>
-
----
-
 # 📌 Favorite Technologies
 
 ```text
@@ -209,30 +184,6 @@ Visual Studio
 <p align="center">
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</p>
-
-(Remove this section if you don't use Spotify.)
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="https://discord.gg/JGPNZ63ey6">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@85csss">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://x.com/mastersharp3210">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
