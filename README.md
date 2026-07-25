@@ -56,8 +56,10 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 # 🏅 GitHub Achievements
 
+<p align="center">
+
 <a href="">
-<img src=https://github.com/MasterSharp3210?achievement=pull-shark&tab=achievements"" height="48"/>
+<img src=https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"" height="48"/>
 </a>
 
 ---
