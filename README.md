@@ -123,11 +123,11 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 <!-- IDE -->
 <a href="https://visualstudio.microsoft.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
+<img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="48" height="48"/>
 </a>
 
-<a href="https://learn.microsoft.com/visualstudio/xaml-tools/blend/">
-<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="48" height="48"/>
+<a href="">
+<img src="https://static.wikia.nocookie.net/logopedia/images/c/cf/I9h2wa0vv13c1-removebg-preview.png/revision/latest?cb=20240928205910" width="48" height="48"/>
 </a>
 
 <a href="https://code.visualstudio.com/">
