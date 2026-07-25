@@ -44,38 +44,6 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mastersharp3210&theme=tokyonight&margin-w=10&margin-h=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 🏅 GitHub Achievements
-
-<p align="center">
-
-<a href="">
-<img src=https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"" height="48"/>
-</a>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mastersharp3210&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastersharp3210&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -104,15 +72,6 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 </p>
 
----
-
-⬇️ **Parte 2 conterrà:**
-
-- 💻 Languages & Tools (tutte le icone nell'ordine richiesto)
-- 🚀 Progetti
-- 🎮 Sezione Hypixel con `⭐ 300  MVP+  25fs  [ALPHA]`
-- ❤️ Footer moderno
-- Piccole rifiniture grafiche e badge aggiuntivi
 ---
 
 # 💻 Languages & Tools
