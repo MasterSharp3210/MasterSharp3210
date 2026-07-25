@@ -123,7 +123,7 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 <!-- IDE -->
 <a href="https://visualstudio.microsoft.com/">
-<img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="48" height="48"/>
 </a>
 
 <a href="">
@@ -139,11 +139,11 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 </a>
 
 <a href="https://www.jetbrains.com/decompiler/">
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/dotPeek.svg" width="48" height="48"/>
+<img src="https://www.jetbrainssoftware.sk/wp-content/uploads/2019/06/dotPeek_icon.png="48" height="48"/>
 </a>
 
 <a href="https://www.vmware.com/">
-<img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="48" height="48"/>
 </a>
 
 </p>
