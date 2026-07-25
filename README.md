@@ -1,29 +1,289 @@
-<h1 align="center">Ciao 👋, sono 85cs</h1>
-<h3 align="center">Uno sviluppatore C# e Python appassionato dall'Irlanda</h3>
+<!-- ========================================= -->
+<!--               HEADER                      -->
+<!-- ========================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastersharp3210" alt="mastersharp3210" /></a> </p>
+<h1 align="center">👋 Ciao, sono 85cs</h1>
 
-<p align="left"> <a href="https://twitter.com/mastersharp3210" target="blank"><img src="https://img.shields.io/twitter/follow/mastersharp?logo=twitter&style=for-the-badge" alt="mastersharp" /></a> </p>
+<h3 align="center">
+Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
+</h3>
 
-- 🔭 Attualmente sto lavorando su **Clover Minecraft Client**
-
-- 🌱 Attualmente sto imparando **C e C++**
-
-- 📝 Scrivo regolarmente articoli su [Twitter](https://twitter.com/mastersharp3210)
-
-- 💬 Chiedimi informazioni su **progetti C#, mod di Minecraft e script Python, F#**
-
-- 📫 Come contattarmi **85cs su Discord😉**
-
-- ⚡ Curiosità **Penso che molte persone mi stiano nascondendo qualcosa**
-
-<h3 align="left">Connettiti con me:</h3>
-<p align="left">
-<a href="https://twitter.com/mastersharp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mastersharp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/85csss" target="blank"><img <a href="https://discord.gg/https://discord.gg/JGPNZ63ey6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="85csss" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JGPNZ63ey6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JGPNZ63ey6" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=C%23+Developer;Python+Developer;Minecraft+Mod+Developer;.NET+Enthusiast;Always+learning+new+things!" />
 </p>
 
-<h3 align="left">Linguaggi e strumenti:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" altezza="40"/> </a> <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="go" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img <a></
+---
 
+# 👨‍💻 Chi sono
+
+- 🔭 Attualmente sto lavorando su **Clover Minecraft Client**
+- 🌱 Sto imparando **C**, **C++** e approfondendo **F#**
+- 💬 Chiedimi tutto su **C#**, **.NET**, **Python**, **Minecraft Modding** e **F#**
+- 📫 Discord: **85cs**
+- ⚡ Curiosità: *Penso che molte persone mi stiano nascondendo qualcosa.*
+
+---
+
+# 🌐 Social
+
+<p align="center">
+
+<a href="https://x.com/mastersharp3210">
+<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+</a>
+
+<a href="https://youtube.com/@85csss">
+<img src="https://skillicons.dev/icons?i=youtube" height="48"/>
+</a>
+
+<a href="https://discord.gg/JGPNZ63ey6">
+<img src="https://skillicons.dev/icons?i=discord" height="48"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mastersharp3210&theme=tokyonight&margin-w=10&margin-h=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+> Qui metteremo i badge ufficiali del tuo profilo GitHub.
+
+Ad esempio:
+
+- 🦈 Pull Shark
+- ⚡ Quickdraw
+
+e qualsiasi altro achievement presente sul tuo account.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mastersharp3210&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastersharp3210&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mastersharp3210&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mastersharp3210&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mastersharp3210&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+
+</p>
+
+---
+
+⬇️ **Parte 2 conterrà:**
+
+- 💻 Languages & Tools (tutte le icone nell'ordine richiesto)
+- 🚀 Progetti
+- 🎮 Sezione Hypixel con `⭐ 300  MVP+  25fs  [ALPHA]`
+- ❤️ Footer moderno
+- Piccole rifiniture grafiche e badge aggiuntivi
+---
+
+# 💻 Languages & Tools
+
+<p align="center">
+
+<!-- Languages -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+</a>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+</a>
+
+<a href="https://fsharp.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="48" height="48" alt="F#"/>
+</a>
+
+<a href="https://go.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+</a>
+
+<a href="https://python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+</a>
+
+<!-- Framework -->
+<a href="https://dotnet.microsoft.com/">
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" alt=".NET"/>
+</a>
+
+<!-- Operating Systems -->
+<a href="https://en.wikipedia.org/wiki/Windows_8.1">
+<img src="https://cdn.simpleicons.org/windows/0078D6" width="48" height="48" alt="Windows"/>
+</a>
+
+<a href="https://learn.microsoft.com/powershell/">
+<img src="https://cdn.simpleicons.org/powershell/000000" width="48" height="48" alt="PowerShell"/>
+</a>
+
+<a href="https://kernel.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+</a>
+
+<!-- IDE -->
+<a href="https://visualstudio.microsoft.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
+</a>
+
+<a href="https://learn.microsoft.com/visualstudio/xaml-tools/blend/">
+<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="48" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.jetbrains.com/decompiler/">
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/dotPeek.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.vmware.com/">
+<img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Main Projects
+
+## 🍀 Clover Minecraft Client
+
+> A modern Minecraft Client focused on performance, customization and utility.
+
+- 💻 C#
+- ⚡ .NET
+- 🎮 Minecraft
+- 🛠 Active Development
+
+---
+
+# 🎮 Minecraft
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hypixel-Network-orange?style=for-the-badge"/>
+
+</p>
+
+## 🛏 BedWars
+
+<p align="center">
+
+⭐ **300**
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/MVP+-00E5FF?style=for-the-badge"/>
+
+**25fs**
+
+<img src="https://img.shields.io/badge/%5BALPHA%5D-00E5FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📌 Favorite Technologies
+
+```text
+C#
+.NET
+Python
+F#
+Minecraft Modding
+Reverse Engineering
+Windows
+Linux
+Visual Studio
+```
+
+---
+
+# 🎵 Currently Listening
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
+
+</p>
+
+(Remove this section if you don't use Spotify.)
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://discord.gg/JGPNZ63ey6">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@85csss">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/mastersharp3210">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ❤️ Thanks for visiting!
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
+
+</p>
