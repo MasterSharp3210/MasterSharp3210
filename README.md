@@ -33,7 +33,7 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 </a>
 
 <a href="https://t.me/+P1i1YUXL5y9jOTdk">
-<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48"/>
 </a>
 
 <a href="https://discord.gg/JGPNZ63ey6">
