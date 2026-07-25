@@ -139,7 +139,7 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 </a>
 
 <a href="https://www.jetbrains.com/decompiler/">
-<img src="https://www.jetbrainssoftware.sk/wp-content/uploads/2019/06/dotPeek_icon.png="48" height="48"/>
+<img src="https://www.jetbrainssoftware.sk/wp-content/uploads/2019/06/dotPeek_icon.png" ="48" height="48"/>
 </a>
 
 <a href="https://www.vmware.com/">
