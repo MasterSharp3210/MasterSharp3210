@@ -14,14 +14,14 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 ---
 
-# 👨‍💻 Chi sono
+# 👨‍💻 Whoami
 
-- 🔭 Attualmente sto lavorando su **Clover Minecraft Client**
-- 🌱 Sto imparando **C**, **C++** e approfondendo **F#**
-- 💬 Chiedimi tutto su **C#**, **.NET**, **Python**, **Minecraft Modding** e **F#**
+- 🔭 Now I'm working on **Clover Minecraft Client**
+- 🌱 I'm learning **C**, **C++, F#**
+- 💬 Ask me everything about **C#**, **.NET**, **Python**, **Minecraft Modding** and **F#**
 - 📫 Discord: **85cs**
-- ⚡ Curiosità: *Penso che molte persone mi stiano nascondendo qualcosa.*
-
+- ⚡ Fun fact: *I think someone is hiding me something...*
+ 
 ---
 
 # 🌐 Social
@@ -154,11 +154,13 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 ## 🍀 Clover Minecraft Client
 
-> A modern Minecraft Client focused on performance, customization and utility.
+> A 2016 style Minecraft Client focused on utility and customization.
 
 - 💻 C#
 - ⚡ .NET
+- ☕ Java
 - 🎮 Minecraft
+- 🗜️ Forge - Fabric
 - 🛠 Active Development
 
 ---
@@ -176,14 +178,6 @@ Windows
 Linux
 Visual Studio
 ```
-
----
-
-# 🎵 Currently Listening
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wcgai622cafwypzbuo3ykybfbi&cover_image=true&theme=default"/>
 
 ---
 
