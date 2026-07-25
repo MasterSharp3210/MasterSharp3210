@@ -32,8 +32,8 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
 </a>
 
-<a href="https://youtube.com/@85csss">
-<img src="https://skillicons.dev/icons?i=youtube" height="48"/>
+<a href="https://t.me/+P1i1YUXL5y9jOTdk">
+<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
 </a>
 
 <a href="https://discord.gg/JGPNZ63ey6">
@@ -56,14 +56,9 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 # 🏅 GitHub Achievements
 
-> Qui metteremo i badge ufficiali del tuo profilo GitHub.
-
-Ad esempio:
-
-- 🦈 Pull Shark
-- ⚡ Quickdraw
-
-e qualsiasi altro achievement presente sul tuo account.
+<a href="">
+<img src=https://github.com/MasterSharp3210?achievement=pull-shark&tab=achievements"" height="48"/>
+</a>
 
 ---
 
