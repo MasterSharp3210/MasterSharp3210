@@ -109,12 +109,12 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 </a>
 
 <!-- Operating Systems -->
-<a href="https://en.wikipedia.org/wiki/Windows_8.1">
-<img src="https://cdn.simpleicons.org/windows/0078D6" width="48" height="48" alt="Windows"/>
+<a href="https://microsoft.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original" width="48" height="48" alt="Windows"/>
 </a>
 
 <a href="https://learn.microsoft.com/powershell/">
-<img src="https://cdn.simpleicons.org/powershell/000000" width="48" height="48" alt="PowerShell"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" width="48" height="48" alt="PowerShell"/>
 </a>
 
 <a href="https://kernel.org">
