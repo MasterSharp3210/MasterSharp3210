@@ -9,7 +9,7 @@
 
 - 🌱 Attualmente sto imparando **C e C++**
 
-- 📝 Scrivo regolarmente articoli su [Twitter](Twitter)
+- 📝 Scrivo regolarmente articoli su [Twitter](https://twitter.com/mastersharp3210)
 
 - 💬 Chiedimi informazioni su **progetti C#, mod di Minecraft e script Python, F#**
 
