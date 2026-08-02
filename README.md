@@ -45,15 +45,6 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 ---
 
 # 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mastersharp3210&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
