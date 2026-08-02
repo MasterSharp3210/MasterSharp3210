@@ -44,6 +44,8 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 ---
 
+# 🗿 Streak Viewer
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=mastersharp3210&theme=tokyonight&hide_border=true"/>
