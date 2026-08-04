@@ -152,6 +152,16 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 
 # 🚀 Main Projects
 
+## 🗺️ MapsEngine
+
+> A console program to view, write and manage Kernel Addresses Map wih journaled features using WinAPI
+
+- 🗺️ Console Addresses Map
+- 🔳 External Console Processes Streamer
+- 🧐 Process analyses
+- 🪾 Decimal & Hexadecimal valute reader and modifier
+  
+
 ## 🍀 Clover Minecraft Client
 
 > A 2016 style Minecraft Client focused on utility and customization.
