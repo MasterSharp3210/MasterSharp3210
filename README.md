@@ -5,7 +5,7 @@
 <h1 align="center">👋 Ciao, sono 85cs</h1>
 
 <h3 align="center">
-Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
+Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 </h3>
 
 <p align="center">
