@@ -178,11 +178,10 @@ Uno sviluppatore C# e Python appassionato dall'Irlanda 🇮🇪
 # 📌 Favorite Technologies
 
 ```text
-C#
 .NET
 Python
-F#
 Minecraft Modding
+Minecraft Texture Packs
 Reverse Engineering
 Windows
 Linux
