@@ -17,6 +17,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 # 👨‍💻 Whoami
 
 - 🔭 Now I'm working on **Clover Minecraft Client**
+- ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, F#**
 - 💬 Ask me everything about **C#**, **.NET**, **Python**, **Minecraft Modding** and **F#**
 - 📫 Discord: **85cs**
