@@ -104,6 +104,14 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
 </a>
 
+<a href="https://rust-lang.org">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="Rust"/>
+</a>
+
+<a href="https://kotlinlang.org/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb21u0NptvK0wTPO21xUh09y2ssE3fWql96UAF8qY8vw&s=10" width="48" height="48" alt="Rust"/>
+</a>
+
 <!-- Framework -->
 <a href="https://dotnet.microsoft.com/">
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" alt=".NET"/>
