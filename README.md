@@ -19,7 +19,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🔭 Now I'm working on **Clover Minecraft Client**
 - ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, F#**
-- 💬 Ask me everything about **C#**, **.NET**, **Python**, **Minecraft Modding** and **F#**
+- 💬 Ask me everything about **C#**, **.NET**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - ⚡ Fun fact: *I think someone is hiding me something...*
  
@@ -50,16 +50,6 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=mastersharp3210&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mastersharp3210&theme=tokyo-night"/>
 
 </p>
 
