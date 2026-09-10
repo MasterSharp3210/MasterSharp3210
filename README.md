@@ -19,7 +19,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🔭 Now I'm mainly working on **b1rd_ch4in**
 - ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, Rust**
-- 💬 Ask me everything about **C#**, **.NET**, **Python**, and **Minecraft Modding**
+- 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - ⚡ Fun fact: *I think someone is hiding me something...*
  
