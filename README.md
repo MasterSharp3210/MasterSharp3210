@@ -171,7 +171,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 Python
 Minecraft Modding
 Minecraft Texture Packs
-Reverse Engineering
+IRC
 Windows
 Linux
 macOS
