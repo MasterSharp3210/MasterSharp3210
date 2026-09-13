@@ -21,6 +21,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🌱 I'm learning **C**, **C++, Rust**
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
+- 🎶 Favourite music: It Starts - Alex Metric
 - ⚡ Fun fact: *I think vampires are real...*
  
 ---
