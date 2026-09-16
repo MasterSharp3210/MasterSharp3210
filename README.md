@@ -9,7 +9,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=C%23+Developer;Python+Developer;Minecraft+Mod+Developer;.NET+Enthusiast;Always+learning+new+things!;25+IS+YOU;What+do+u+thing+bout+me?" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=C%23+Developer;Python+Developer;Minecraft+Mod+Developer;.NET+Enthusiast;Always+learning+new+things!;25+IS+YOU;What+do+u+thing+bout+me?;Is+this+the+doomsday?" />
 </p>
 
 ---
