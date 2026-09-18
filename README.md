@@ -38,6 +38,10 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48"/>
 </a>
 
+<a href="https://youtube.com/@85csss">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" height="48"/>
+</a>
+
 <a href="https://discord.gg/JGPNZ63ey6">
 <img src="https://skillicons.dev/icons?i=discord" height="48"/>
 </a>
