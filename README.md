@@ -39,7 +39,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 </a>
 
 <a href="https://youtube.com/@85csss">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" height="48"/>
+<img src="https://img.magnific.com/vettori-premium/icona-rotonda-dell-app-youtube-logo-dei-social-media-illustrazione-vettoriale_277909-797.jpg?semt=ais_hybrid&w=740&q=80" height="48"/>
 </a>
 
 <a href="https://discord.gg/JGPNZ63ey6">
