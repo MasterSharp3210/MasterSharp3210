@@ -16,13 +16,13 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 
 # 👨‍💻 Whoami
 
-- 🔭 Now I'm mainly working on **Nothing/Student**
+- 🔭 Now I'm mainly working on **WayDoom**
 - ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, Rust**
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - 🎶 Favourite music: Escapism - RAYE
-- ⚡ Fun fact: *I think vampires are real...*
+- ⚡ Fun fact: *I can't...*
  
 ---
 
