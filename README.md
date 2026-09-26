@@ -16,7 +16,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 
 # 👨‍💻 Whoami
 
-- 🔭 Now I'm mainly working on **WayDoom**
+- 🔭 Now I'm mainly working on **p4rr0t**
 - ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, Rust**
 - 🎮 300 Hypixel Bedwars Player - 25fs
