@@ -23,6 +23,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - 🎶 Favourite music: Escapism - RAYE / Vivarium - Ado
+- 🎵 Most nostalgic song: Disconnected - Pegboard Nerds
 - ⚡ Secret: *I can't...*
  
 ---
