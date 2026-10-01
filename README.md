@@ -22,7 +22,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🎮 300 Hypixel Bedwars Player - 25fs
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
-- 🎶 Favourite music: Escapism - RAYE
+- 🎶 Favourite music: Escapism - RAYE / Vivarium - Ado
 - ⚡ Secret: *I can't...*
  
 ---
