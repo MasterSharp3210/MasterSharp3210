@@ -20,6 +20,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - ✌️ My favourite languages are **C#**, **Python**, **Java/Kotlin**, **Rust**, **C**
 - 🌱 I'm learning **C**, **C++, Rust**
 - 🎮 300 Hypixel Bedwars Player - 25fs
+- 🗡️ 800M Networth Hypixel Skyblock Player - 25fs
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - 🎶 Favourite music: Escapism - RAYE / Vivarium - Ado
