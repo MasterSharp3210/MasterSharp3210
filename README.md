@@ -37,16 +37,20 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
 </a>
 
+<a href="https://infosec.exchange/@MasterSharp3210">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1280px-Mastodon_logotype_%28simple%29_new_hue.svg.png" height="48"/>
+</a>
+
+<a href="https://discord.gg/JGPNZ63ey6">
+<img src="https://skillicons.dev/icons?i=discord" height="48"/>
+</a>
+
 <a href="https://t.me/+P1i1YUXL5y9jOTdk">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48"/>
 </a>
 
 <a href="https://youtube.com/@85csss">
 <img src="https://img.magnific.com/vettori-premium/icona-rotonda-dell-app-youtube-logo-dei-social-media-illustrazione-vettoriale_277909-797.jpg?semt=ais_hybrid&w=740&q=80" height="48"/>
-</a>
-
-<a href="https://discord.gg/JGPNZ63ey6">
-<img src="https://skillicons.dev/icons?i=discord" height="48"/>
 </a>
 
 </p>
