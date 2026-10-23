@@ -23,8 +23,8 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🗡️ 800M Networth Hypixel Skyblock Player - 25fs
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
-- 🎶 Favourite music: Escapism - RAYE / Vivarium - Ado
-- 🎵 Most nostalgic song: Disconnected - Pegboard Nerds
+- 🎶 Favourite music: ONE PUNCH - Aries - Escapism - RAYE / Vivarium - Ado
+- 🎵 Most nostalgic song: Disconnected - Pegboard Nerds / Nope your too late i'm already died - wifiskeleton
 - ⚡ Secret: *I can't...*
  
 ---
