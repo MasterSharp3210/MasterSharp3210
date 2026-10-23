@@ -180,10 +180,11 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 
 ```text
 .NET
-Python
+Cyber Secutiry
 Minecraft Modding
 Minecraft Texture Packs
 IRC
+Networking
 Windows
 Linux
 macOS
