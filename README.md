@@ -150,7 +150,15 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 </a>
 
 <a href="https://www.jetbrains.com/decompiler/">
-<img src="https://www.jetbrainssoftware.sk/wp-content/uploads/2019/06/dotPeek_icon.png" ="48" height="48"/>
+<img src="https://images.g2crowd.com/uploads/product/image/19fc807e37550790557ea8503148c655/dotpeek.png" ="48" height="48"/>
+</a>
+
+<a href="https://www.jetbrains.com/rust/">
+<img src="https://mosaic.ee/wp-content/uploads/2024/08/RustRover-icon.png" ="48" height="48"/>
+</a>
+
+<a href="https://www.jetbrains.com/rider/">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1280px-JetBrains_Rider_Icon.svg.png" ="48" height="48"/>
 </a>
 
 <a href="https://www.vmware.com/">
