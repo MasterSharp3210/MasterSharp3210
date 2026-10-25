@@ -132,6 +132,10 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
 </a>
 
+<a href="https://termux.dev/">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1280px-Termux.svg.png" width="48" height="48" alt="Linux"/>
+</a>
+
 <!-- IDE -->
 <a href="https://visualstudio.microsoft.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="48" height="48"/>
@@ -147,6 +151,10 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 
 <a href="https://www.jetbrains.com/idea/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.jetbrains.com/clion/">
+<img src="https://images.g2crowd.com/uploads/product/image/6b13ddc843990a8fad34481df5c45397/clion.png" width="48" height="48"/>
 </a>
 
 <a href="https://www.jetbrains.com/decompiler/">
