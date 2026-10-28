@@ -24,6 +24,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - 🎶 Favourite music: ONE PUNCH - Aries / Escapism - RAYE / Vivarium - Ado
+- 🎼 Classic music: Layla - Derek & The Dominos / Ordinary World - Duran Duran / With or Without You - U2
 - 🎵 Most nostalgic song: Disconnected - Pegboard Nerds / Nope your too late i'm already died - wifiskeleton
 - ⚡ Secret: *I can't...*
  
