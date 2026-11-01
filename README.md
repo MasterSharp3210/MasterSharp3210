@@ -21,7 +21,7 @@ Uno sviluppatore C# e Python appassionato dall'Italia 🇮🇹
 - 🌱 I'm learning **C**, **C++, Rust**
 - 🎮 300 Hypixel Bedwars Player - 25fs
 - 🗡️ 800M Networth Hypixel Skyblock Player - 25fs
-- 💬 Ask me everything about **C#**, **Python**, and **Minecraft Modding**
+- 💬 Ask me anything about **C#**, **Python**, and **Minecraft Modding**
 - 📫 Discord: **85cs**
 - 🎶 Favourite music: ONE PUNCH - Aries / Escapism - RAYE / Vivarium - Ado
 - 🎼 Classic music: Layla - Derek & The Dominos / Ordinary World - Duran Duran / Gold - Spandau Ballet
