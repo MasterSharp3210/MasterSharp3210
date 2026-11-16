@@ -1,6 +1,8 @@
+# Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
 
+# TOML
 *.toml linguist-detectable=true
 *.toml linguist-vendored=false
 *.toml linguist-generated=false
